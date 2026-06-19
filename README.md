@@ -1,1 +1,2 @@
 # -win-lone-survival
+From the functions of the aim bot: ESP players and sleeping players show HP, nick, and distance to the player. In the aim bot, you can set up FOV; there is also a circle FOV, so that you see the circle within which the aim bot works. There is a frekam (it works badly and is used on the L key). Also, there is fullbright, and you can remove the grass on the map. The rest of the functions I advise you not to change in order to avoid damage in the script. (Updates may be.)
